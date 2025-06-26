@@ -1,16 +1,17 @@
-                                  Water Quality Predictions
+# Water Quality Predictions
 								  
-* Goal: Use MultiOutput models to determine water potability and quality indicators.
+# Goal: 
+Use MultiOutput models to determine water potability and quality indicators.
 
-* Technologies Used:
+# Technologies Used:
+
 1) Python 3.12
 2) Pandas, NumPy – Data handling
 3) Scikit-learn – Machine learning model and evaluation
 4) Matplotlib, Seaborn – Data visualization
 5) Jupyter Notebook – Interactive experimentation
 
-* Predicted Water Quality Parameters
-
+# Predicted Water Quality Parameters
    ->The model predicts multiple water quality parameters such as:
 
 - NH4
