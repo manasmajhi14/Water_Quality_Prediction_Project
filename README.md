@@ -19,3 +19,6 @@ Use MultiOutput models to determine water potability and quality indicators.
 - Colloids
 - O2, NO3, NO2, SO4, PO4 and
 - CL
+
+# Model link
+https://drive.google.com/file/d/1LPG7TpEzUMMJK3HjF3rjyFUnveV9eJd9/view?usp=drive_link
